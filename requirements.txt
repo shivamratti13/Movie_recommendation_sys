@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-ast
-sklearn
-pickle
-requests
