@@ -8,3 +8,7 @@ The recommendation engine then provided users with a list of five similar movies
 
 ![image](https://github.com/user-attachments/assets/e20d7bc9-05de-437d-9e2c-8f7ba830556e)
 
+![image](https://github.com/user-attachments/assets/d974a182-feb1-4b3d-b280-4ba2378df114)
+
+![image](https://github.com/user-attachments/assets/15bc8000-8fdf-4457-b875-b31c4c3ed163)
+
